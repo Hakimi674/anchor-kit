@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-599-add-database-indexes-for-watcher-and-retention",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-599-add-database-indexes-for-watcher-and-retention": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-599-add-database-indexes-for-watcher-and-retention",
+    "origin"
+  ]
+}
